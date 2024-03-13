@@ -1,0 +1,43 @@
+main{
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(247, 245, 245);
+}
+.title {
+    color: blue;
+    text-align: center;
+}
+.tkb{
+    background-color: antiquewhite;
+    width: 100%;
+   
+}
+.titlename{
+   background-color: orange;
+}
+th,td{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.day{
+    background-color: yellow;
+}
+h3{
+    color: rgb(126, 220, 236);
+}
+.info_container{
+  display: flex;
+  justify-content: space-between;
+}
+.info_right, .info_left{
+    width:15%;
+}
+
+
+
+
+
+
